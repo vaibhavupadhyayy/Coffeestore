@@ -10,7 +10,7 @@ Welcome to the Coffee Store Website repository! This project is a simple coffee 
 ## Demo
 You can see a live demo of the Coffee Store Website at [https://vaibhavupadhyayy.github.io/Coffeestore/](https://vaibhavupadhyayy.github.io/Coffeestore/).
 
-![Coffee Store Website Screenshot](screenshot.png)
+![Coffee Store Website Screenshot](coffeestore.png)
 
 ## Features
 
