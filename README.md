@@ -23,4 +23,4 @@ You can see a live demo of the Coffee Store Website at [https://vaibhavupadhyayy
 
 We welcome contributions from the community. If you have suggestions, bug reports, or would like to contribute new features or improvements.
 
-Thank you for using the Coffee Store Website template! We hope you find it useful for your coffee business. If you have any questions or need assistance, please feel free to [contact us](mailto:your-email@example.com). Enjoy your coffee journey! ☕
+Thank you for using the Coffee Store Website template! We hope you find it useful for your coffee business. If you have any questions or need assistance, please feel free to [contact us](mailto:vaibhavupadhyay306@gmail.com). Enjoy your coffee journey! ☕
